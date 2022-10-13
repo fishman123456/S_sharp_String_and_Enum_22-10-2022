@@ -1,0 +1,15 @@
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\bin\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.exe
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\bin\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.deps.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\bin\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.runtimeconfig.json
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\bin\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\bin\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.csproj.AssemblyReference.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.AssemblyInfoInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.AssemblyInfo.cs
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.csproj.CoreCompileInputs.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\refint\S_sharp_String_and_Enum_22-10-2022.dll
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.pdb
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\S_sharp_String_and_Enum_22-10-2022.genruntimeconfig.cache
+C:\Users\Fishman.DB.CORP\Documents\GitHub\S_sharp_String_and_Enum_22-10-2022\obj\Debug\net6.0\ref\S_sharp_String_and_Enum_22-10-2022.dll
